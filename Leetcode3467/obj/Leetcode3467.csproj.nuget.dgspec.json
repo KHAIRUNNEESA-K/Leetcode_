@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\Leetcode3467.csproj": {}
+    "C:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\Leetcode3467.csproj": {}
   },
   "projects": {
-    "c:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\Leetcode3467.csproj": {
+    "C:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\Leetcode3467.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\Leetcode3467.csproj",
+        "projectUniqueName": "C:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\Leetcode3467.csproj",
         "projectName": "Leetcode3467",
-        "projectPath": "c:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\Leetcode3467.csproj",
+        "projectPath": "C:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\Leetcode3467.csproj",
         "packagesPath": "C:\\Users\\T480s\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\obj\\",
+        "outputPath": "C:\\Users\\T480s\\Desktop\\Software Learning\\Leetcode_\\Leetcode3467\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
