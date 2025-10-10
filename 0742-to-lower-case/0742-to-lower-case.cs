@@ -1,5 +1,5 @@
 public class Solution {
     public string ToLowerCase(string s) {
-        return Convert.ToString(s).ToLower();
+        return s.ToLower();
     }
 }
